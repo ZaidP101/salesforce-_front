@@ -10,6 +10,10 @@ This project is a practice exercise where I created the first page of a Salesfor
 - **Content Sections:** Structured sections for showcasing features, benefits, and a call-to-action.
 - **Footer:** A basic footer with links to additional resources.
 
+![Landing page](/pngs/LandingPage.png)
+![Bar&Buttons](/pngs/Bar&Buttons.png)
+
+
 ## Technologies Used
 
 - **HTML5:** For the structure and content of the page.
